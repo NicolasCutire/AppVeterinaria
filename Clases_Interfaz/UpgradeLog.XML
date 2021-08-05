@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Clases_Interfaz">
+</Property><Property Name="Archivo de la solución" Value="E:\UNSAAC\Laboratorio V\Contol Academico 3 capas\Clases_Interfaz\Clases_Interfaz.sln">
+</Property><Property Name="Date" Value="Domingo, 09 de Septiembre de 2007">
+</Property><Property Name="Time" Value="19:26 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="Clases_Interfaz" Source="Clases_Interfaz.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Clases_Interfaz" Source="Clases_Interfaz.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Clases_Interfaz.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Clases_Interfaz.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Clases_Interfaz" Source="Clases_Interfaz.csproj" Description="Búsqueda completa: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

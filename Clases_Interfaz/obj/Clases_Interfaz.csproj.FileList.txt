@@ -1,0 +1,11 @@
+bin\Debug\Clases_Interfaz.dll
+bin\Debug\Clases_Interfaz.pdb
+bin\Debug\Clases_Entidad.dll
+bin\Debug\Clases_Entidad.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Clases_Interfaz.fmAlumno.resources
+obj\Debug\Clases_Interfaz.fmCarrera.resources
+obj\Debug\Clases_Interfaz.fmMantenimiento.resources
+obj\Debug\Clases_Interfaz.csproj.GenerateResource.Cache
+obj\Debug\Clases_Interfaz.dll
+obj\Debug\Clases_Interfaz.pdb

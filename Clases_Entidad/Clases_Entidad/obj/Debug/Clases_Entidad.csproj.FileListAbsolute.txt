@@ -1,0 +1,6 @@
+C:\Users\NICOLAS\Documents\bitbucked\ProyectoVeterinaria\Clases_Entidad\Clases_Entidad\bin\Debug\Clases_Entidad.dll
+C:\Users\NICOLAS\Documents\bitbucked\ProyectoVeterinaria\Clases_Entidad\Clases_Entidad\bin\Debug\Clases_Entidad.pdb
+C:\Users\NICOLAS\Documents\bitbucked\ProyectoVeterinaria\Clases_Entidad\Clases_Entidad\obj\Debug\Clases_Entidad.csprojAssemblyReference.cache
+C:\Users\NICOLAS\Documents\bitbucked\ProyectoVeterinaria\Clases_Entidad\Clases_Entidad\obj\Debug\Clases_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\NICOLAS\Documents\bitbucked\ProyectoVeterinaria\Clases_Entidad\Clases_Entidad\obj\Debug\Clases_Entidad.dll
+C:\Users\NICOLAS\Documents\bitbucked\ProyectoVeterinaria\Clases_Entidad\Clases_Entidad\obj\Debug\Clases_Entidad.pdb
